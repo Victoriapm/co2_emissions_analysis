@@ -1,2 +1,1 @@
-# me.victoria-gmail.com
-Data-Analyst-Udacity-nanodegree
+# Data-Analyst-Udacity-nanodegree
